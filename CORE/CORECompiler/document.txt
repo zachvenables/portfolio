@@ -1,0 +1,18 @@
+-------------------
+Overall description
+-------------------
+The parse tree design is based off of the grammar for the language, I don't believe the parsing strays from it at all.  
+There are separate trees for taking input for an idlist and for executing the function calls. The functions are represented
+as an object with a parsed statement sequence.  It uses other execute functions so that it accesses its own variable table.
+
+All interactions with the scanner are done with the functions already defined in the scanner.  I did not need to modify the scanner at all.
+
+I tested the interpreter by usign all of the test cases given to us and coming up with some independently. What I found most efficient was to 
+modify small portions of test cases to test for specific conditions.  For example, instead of writing test cases, I would just modify while loop
+conditions to make sure it correctly executed in all circumstances.  I also tested for errors in the same way.
+
+----------
+Known Bugs
+----------
+The program does not support recursion.  The way I decided to design the functions was by creating a function object and I can not
+recursively pass parameters without an error.
