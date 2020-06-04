@@ -5,8 +5,7 @@ MoWeFri: 1:50 - 2:45
 CONTENTS OF THIS FILE
 -----------------------
 
-*Lab4
-*Lab4 Bonus Credit
+Mass-Spring System
 
 
 INTRODUCTION
