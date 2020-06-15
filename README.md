@@ -13,9 +13,12 @@ Requirements elicitation has examples of a workbook that is used to build the so
 ## SoftwareEngineeringRequirements
 Shows a plan for improving a current software package designed to help manage wildfires.  Evaluates the current software, market forces, and benefits of improving the software and how those changes would be implemented.
 
+<<<<<<< HEAD
 ## StaticWebPage
 Static web page generator for an OSU Faculty member's web page with a redesign of layout and style.  Built with MinuteMan and Ruby.
 
+=======
+>>>>>>> 63bd2662f5846ddfeec2e5a10b01c77a8ef77709
 ## pyBot
 Discord bot used for group messaging.  Performs CRUD operations and is usable by all members of servers, not restricted to admins.
 
