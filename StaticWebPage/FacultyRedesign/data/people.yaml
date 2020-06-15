@@ -1,0 +1,75 @@
+# Created on 10/16 by Matthew Kelch
+# Contains content for relatedlinks.html
+items:
+  - title: "Current Students"
+    content:
+      - name: Joe Barker
+        desc: Ph.D. student
+      - name: Tong Liang
+        desc: Ph.D. student
+      - name: Ash Radhakrishnan
+        desc: M.S. student
+      - name: Sam Lerner
+        desc: B.S./M.S. student
+      - name: Jamie Cunningham
+        desc: B.S./M.S. student
+      - name: James Enouen
+        desc: B.S. student
+  - title: "Alumni"
+    content:
+      - name: Chris Menart
+        desc: M.S. student
+      - name: Debanjan Nandi
+        desc: M.S. student
+      - name: Mo Akbar
+        desc: B.S./M.S. student
+      - name: Josh Sandvick
+        desc: B.S/M.S. student
+      - name: Brett Whitford
+        desc: B.S. student
+      - name: Chuhan Feng
+        desc: B.S. student
+      - name: Rohith Savaram
+        desc: M.S. project, May 2016 (now at Expedia)
+      - name: Dan Marchese
+        desc: 'Undergraduate Honors Thesis: "A Framework for Using Custom Features to Colorize Grayscale Images", May 2016 (Now at Amazon)'
+      - name: Manjari Akella
+        desc: 'M.S. Project, May 2015 (Now at IBM)'
+      - name: Jeremy Ledonne
+        desc: 'Undergraduate research assistant. Graduated 2015.'
+      - name: Daniya Zamalieva
+        desc: 'Ph.D. Thesis: "Transformational Models for Background Subtraction with Moving Cameras", September 2014. (Now at Google)'
+      - name: Ryan Niemocienski
+        desc: 'Undergraduate research assistant, 2013-2014'
+      - name: Kyle Salberg
+        desc: 'Undergraduate research assistant. Graduated June 2012. (Now at Garmin)'
+      - name: Michael Schoenberg
+        desc: 'Undergraduate research assistant. Graduated June 2012. (Now at Microsoft)'
+      - name: Ronak Buch
+        desc: 'Undergraduate research assistant. Graduated June 2012. (Now at UIUC)'
+      - name: Kevin Streib
+        desc: 'Ph.D. Thesis: "Improved Graph-based Clustering with Applications in Computer Vision and Behavior Analysis", March 2012. (and Post-Doc with Davis)'
+      - name: Karthik Sankaranarayanan
+        desc: 'Ph.D. Thesis: "Multiple Instance Learning for Localization and Tracking of Persistent Targets", August 2011. (Now at IBM India)'
+      - name: Ryan Feather
+        desc: 'MS Thesis: "Tracking and Activity Analysis in Wide Area Aerial Surveillance Video", August 2011.'
+      - name: Matt Nedrich
+        desc: 'MS Thesis: "Detecting Behavioral Zones in Local and Global Camera Views", June 2011. (Now at Intel)'
+      - name: Mark Keck
+        desc: 'Ph.D. Thesis: "Occlusion Recovery and Reasoning for 3D Surveillance", August 2009. (Now at BAE)'
+      - name: Karl Salva
+        desc: 'Undergraduate research assistant. Graduated March 2009. (Now at Numerica)'
+      - name: Ambrish Tyagi
+        desc: 'Ph.D. Thesis: "Layered Tracker Switching for Visual Surveillance", August 2008. (Now at STI - Omron Scientific Technologies)'
+      - name: Vinay Sharma
+        desc: 'Ph.D. Thesis: "Simultaneous Object Detection and Segmentation using Top-down and Bottom-up Processing", November 2007. (Now at Texas Instruments)'
+      - name: Hui Gao
+        desc: 'Ph.D. Thesis: "Extracting Key Features for Analysis and Recognition in Computer Vision", February 2006. (Now at Microsoft)'
+      - name: Alex Morison
+        desc: 'MS Thesis: "An Adaptive Focus-of-Attention Model for Video Surveillance and Monitoring", August 2006. (Now at OSU/AFRL)'
+      - name: Vignesh Kannappan
+        desc: 'MS Thesis: "Automatic Temporal Segmentation of Human Actions", June 2003. (Now at Microsoft)'
+      - name: Stephanie Taylor
+        desc: 'MS Thesis: "Computer Analysis and Recognition of Walking Movements", June 2002.'
+      - name: Robin Tan
+        desc: 'Undergraduate Honors Thesis: "Human-Content Video Coding", March 2002.'

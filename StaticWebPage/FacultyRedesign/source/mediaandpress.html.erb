@@ -1,0 +1,58 @@
+<!-- File created by Neil Mckibben 10/17/2019 -->
+<!-- Filed edited by Sean Simpson 10/17/19 -->
+<!-- File edited by Andrew Petrilli on 10/17/2019 -->
+<h2>Media and Press</h2>
+
+  <!-- File created by Neil Mckibben 10/17/2019, verbose way of generating tables using ruby and persistent yaml data -->
+  <!-- edited by Sean Simpson 10/17/19 -->
+  <details>
+  <summary>TV/Video:</summary>
+  <table class="firstable">
+    <tbody>
+    <% data.tv.event.zip(data.tv.source, data.tv.date).each do |event, source, date| %>
+    <tr>
+      <td><%= event %></td>
+      <td><%= source %></td>
+      <td><%= date %></td>
+    </tr>
+    <% end %>
+  </tbody>
+  </table>
+</details>
+
+<!-- File created by Neil Mckibben 10/17/2019, verbose way of generating tables using ruby and persistent yaml data -->
+<!-- edited by Sean Simpson 10/17/19 -->
+<details>
+<summary>Radio:</summary>
+  <table class="secondtable">
+    <tbody>
+    <% data.radio.event.zip(data.radio.source, data.radio.date).each do |event, source, date| %>
+    <tr>
+      <td><%= event %></td>
+      <td><%= source %></td>
+      <td><%= date %></td>
+    </tr>
+    <% end %>
+  </tbody>
+  </table>
+</details>
+
+<!-- File created by Neil Mckibben 10/17/2019, verbose way of generating tables using ruby and persistent yaml data -->
+<!-- edited by Sean Simpson 10/17/19 -->
+<!-- edited by Andrew Petrilli 10/17/2019 -->
+<details>
+<summary>Print:</summary>
+    <ul>
+    <% data.prints.event.zip(data.prints.links).each do |appearance, link| %>
+    <li>
+    <% unless link.to_s.empty? %>
+    <%="<a href=\""+link+"\">"%>
+    <% end %>
+    <%= appearance %>
+    <% unless link.to_s.strip.empty? %>
+    <%="</a>"%>
+    <% end %>
+    <% end %>
+    </li>
+</ul>    
+</details>

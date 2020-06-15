@@ -1,0 +1,31 @@
+university:
+    - Massachusetts Institute of Technology
+    - Massachusetts Institute of Technology
+    - University of Central Florida
+    - Eastern Florida State College
+img_path:
+    - images/MIT_logo.svg
+    - images/MIT_logo.svg
+    - images/UCF_Knights_logo.svg
+    - images/efsc.jpeg
+alt:
+    - MIT Logo
+    - MIT Logo
+    - UCF Logo
+    - EFSC Logo
+
+degree:
+    - Ph.D
+    - M.S.
+    - B.S.
+    - (BCC), A.A.
+grad_date:
+    - 2000
+    - 1996
+    - 1994
+    - 1992
+school_link:
+    - https://www.mit.edu
+    - https://www.mit.edu
+    - https://www.ufl.edu
+    - https://www.easternflorida.edu

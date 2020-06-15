@@ -1,0 +1,12 @@
+
+<div class="test">
+  <h2>Education</h2>
+</div>
+
+
+<% data.education.university.zip(data.education.img_path, data.education.alt, data.education.school_link, data.education.degree, data.education.grad_date).each do |university, image, alt, link, degree, date| %>
+<div class='university'>
+    <%= "<img src=\""+image+"\" alt=\""+alt+"\">" %>
+    <%= "<a href="+link+">"+university+"</a>, "+degree+", "+date.to_s %>
+</div>
+<% end %>

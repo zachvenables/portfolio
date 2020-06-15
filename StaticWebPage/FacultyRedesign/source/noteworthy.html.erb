@@ -1,0 +1,52 @@
+<!-- File created on 10/14/2019 by Andrew Petrilli -->
+<!-- File edited on 10/16/2019 by Andrew Petrilli - added erb to improve terseness -->
+<h2>Noteworthy</h2>
+
+<div class="dropdown">
+  <button>Awards</button>
+  <div class="dropdown-content">
+    <ul>
+      <% data.noteworthy.awards.each do |award| %>
+        <li>
+          <span><%= award.title %></span> - <em><%= award.auxiliary %></em>
+          <% if award.extra %>
+            <br />"<%= award.extra %>"
+          <% end %>
+        </li>
+      <% end %>
+    </ul>
+  </div>
+</div>
+
+<div class="dropdown">
+  <button>Promotions</button>
+  <div class="dropdown-content">
+    <ul>
+      <% data.noteworthy.promotions.each do |promotion| %>
+        <li><span><%= promotion.title %></span> - <em><%= promotion.date %></em></li>
+      <% end %>
+    </ul>
+  </div>
+</div>
+
+<div class="dropdown">
+  <button>Positions</button>
+  <div class="dropdown-content">
+    <ul>
+      <% data.noteworthy.positions.each do |position| %>
+        <li><span><%= position.title %></span> - <em><%= position.auxiliary %></em></li>
+      <% end %>
+    </ul>
+  </div>
+</div>
+
+<div class="dropdown">
+  <button>Misc</button>
+  <div class="dropdown-content">
+    <ul>
+      <% data.noteworthy.misc.each do |item| %>
+        <li><span><%= item.title %></span> - <em><%= item.auxiliary %></em></li>
+      <% end %>
+    </ul>
+  </div>
+</div>

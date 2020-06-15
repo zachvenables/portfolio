@@ -1,0 +1,54 @@
+<!-- Created on 10/8/2019 by Zach Venables -->
+<!-- Edited on 10/12/2019 by Matthew Kelch: Added header and footer to layout -->
+
+<!-- This erb file defines the general HTML layout of the website (e.g. header and footer)-->
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Use the title from a page's frontmatter if it has one -->
+    <title>James W. Davis</title>
+    <%= stylesheet_link_tag "site" %>
+    <%= javascript_include_tag "site" %>
+    <%= stylesheet_link_tag "https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" %>
+  </head>
+  <body>
+  <div id="canvas">
+    <!-- Header Created 10/8 by Zach Venables -->
+  <header>
+      <div class="name-block">
+        <a class="name" href="/">Jim Davis</a>
+        <ul class="nav-links">
+          <li class="nav-item"><%= link_to "Appointments", "appointments.html" %></li>
+          <li class="nav-item"><%= link_to "Education", "education.html" %></li>
+          <li class="nav-item"><%= link_to "Media & Press", "mediaandpress.html" %></li>
+          <li class="nav-item"><%= link_to "Noteworthy", "noteworthy.html" %></li>
+          <li class="nav-item"><%= link_to "Related Links", "relatedlinks.html" %></li>
+        </ul>
+        <p class="name-subtext">Computer Science and Engineering</p>
+      </div>
+
+      <img class="prof-pic" alt="Jim Davis Lecturing" src="../images/Davis.jpg">
+
+  </header>
+
+  <%= yield %>
+
+  <!-- Footer created 10/12/2019 by Matthew Kelch -->
+  <footer>
+    <div class="bottom">
+      <hr>
+      <div class="footer-contact">Contact</div>
+      <br>
+      <div class="footer-info"><p><a href="mailto:jwdavis@cse.ohio-state.edu">jwdavis@cse.ohio-state.edu</a></p></div>
+      <div class="footer-info"><p>Office: 614-292-1553&#8195;&#183;&#8195;Lab: 614-292-5137&#8195;&#183;&#8195;Fax: 614-292-2911</p></div>
+    </div>
+  </footer>
+  </div>
+  </body>
+
+</html>

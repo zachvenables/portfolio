@@ -1,0 +1,71 @@
+# File created on 10/16/2019 by Andrew Petrilli
+# Contains content for Noteworthy.html page
+awards:
+  - title: "Ruth and Joel Spira Teaching Award"
+    auxiliary: "2019 Lutron Electronic's"
+    extra:
+
+  - title: "Innovators Award"
+    auxiliary: "2015 OSU College of Engineering"
+    extra:
+
+  - title: "Lumley Research Award"
+    auxiliary: "2012 OSU Collage of Engineering"
+    extra:
+
+  - title: "Best Paper Award"
+    auxiliary: "International Symposium on Visual Computing, November 2010"
+    extra: "Attention-based Target Localization using Multiple Instance Learning"
+
+  - title: "IEEE Computer Vision and Pattern Recognition Reviewer Award"
+    auxiliary: "2010"
+    extra:
+
+  - title: "CSE Teaching Award"
+    auxiliary: "2009-2010"
+    extra:
+
+  - title: "Lumley Research Award"
+    auxiliary: "2005 OSU College of Engineering"
+    extra:
+
+  - title: "NSF Career Award"
+    auxiliary: "March 2003"
+    extra:
+
+  - title: "Lockheed-Martin Best Paper Award"
+    auxiliary: "IEEE Workshop on Motion and Video Computing Dec. 5-6, 2002, pp.139.144"
+    extra: "A Three-Mode Expressive Feature Model of Action Effort"
+
+promotions:
+  - title: "Full Professor"
+    date: "September 2013"
+
+  - title: "Associate Professor with Tenure"
+    date: "October 2005"
+
+positions:
+  - title: "Chair, Computer Committee"
+    auxiliary: "2012 - current"
+
+  - title: "Workshop co-Chair"
+    auxiliary: "IEEE Conference on Computer Vision and Pattern Recognition, 2014"
+
+  - title: "Co-Program Chair"
+    auxiliary: "IEEE International Conference on Advanced Video and Signal based Surveillance"
+
+  - title: "Co-General Chair"
+    auxiliary: "IEEE Workshop on Motion and Video Computing, December 2009"
+
+  - title: "Co-Chair"
+    auxiliary: "IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum, June 22, 2006"
+
+  - title: "Guest Editor"
+    auxiliary: "CVIU Special Issue on Advances in Vision Algorithms and Systems Beyond the Visible Spectrum"
+
+  - title: "Benchmark and Website Chair"
+    auxiliary: "IEEE Workshop on Object Tracking and Classification in abd Beyond the Visible Spectrum, June 2005"
+
+misc:
+  - title: "Launched Polarity Maximizer"
+    auxiliary: "commercial software and Audiomere"

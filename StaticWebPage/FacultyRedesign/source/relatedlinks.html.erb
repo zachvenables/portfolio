@@ -1,0 +1,41 @@
+<!-- File created on 10/16 by Matthew Kelch -->
+<!-- Defines content for the related links page -->
+
+<h1>Related Links</h1>
+
+  <details>
+    <summary>Publications</summary>
+    <ul>
+      <% data.publications.each do |pub| %>
+        <li>
+          <p><%= pub.title %></p>
+          <p><%= pub.authors %></p>
+          <p><%= pub.publication %></p>
+        </li>
+      <% end %>
+    </ul>
+  </details>
+
+  <details>
+    <summary>Teaching</summary>
+    <% data.teaching.each do |e| %>
+      <p><%= e[0] %></p>
+      <ul>
+        <% e[1].each do |content| %>
+          <li><%= content %></li>
+        <% end %>
+      </ul>
+    <% end %>
+  </details>
+
+  <details>
+    <summary>People</summary>
+    <% data.people.items.each do |item| %>
+      <p><%= item.title %></p>
+      <ul>
+        <% item.content.each do |person| %>
+          <li><p><%= person.name %></p><p> - <%= person.desc %></p></li>
+        <% end %>
+      </ul>
+    <% end %>
+  </details>

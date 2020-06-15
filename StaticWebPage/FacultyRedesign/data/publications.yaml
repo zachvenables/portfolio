@@ -1,0 +1,472 @@
+# Created on 10/16 by Matthew Kelch
+# Contains content for relatedlinks.html
+- title: "A* Search: What’s in a Name?"
+  authors: 'J. Davis and J. Hachtel with P. Hart, N. Nilsson, and B. Raphael'
+  publication: 'To appear, Communications of the ACM.'
+
+- title: "A Framework for Collecting and Classifying Objects in Satellite Imagery"
+  authors: 'A. Radhakrishnan, J. Cunningham, J. Davis, and R. Ilin'
+  publication: 'International Symposium on Visual Computing, October 2019.'
+
+- title: "Hierarchical Semantic Labeling With Adaptive Confidence"
+  authors: 'J. Davis, T. Liang, J. Enouen, and R. Ilin'
+  publication: 'International Symposium on Visual Computing, October 2019.'
+
+- title: "Tracking with Context in Wide Area Motion Imagery"
+  authors: 'R. Ilin, J. Davis, S. Lerner, J. Cunningham, and A. Radhakrishnan'
+  publication: 'MSS Passive Sensors Symposium, February 2019.'
+
+- title: "The AFRL-Ohio State WMT18 Multimodal System: Combining Visual with Traditional"
+  authors: 'J. Gwinnup, J. Sandvick, M. Hutt, G. Erdmann, J. Duselis, and J. Davis'
+  publication: 'Conference on Machine Translation, October 2018.'
+
+- title: "The AFRL-OSU WMT17 Multimodal Translation System: An Image Processing Approach"
+  authors: 'J. Duselis, M. Hutt, J. Gwinnup, J. Davis, and J. Sandvick'
+  publication: 'Conference on Machine Translation, September 2017.'
+
+- title: "Audiomere: Polarity Maximizer"
+  authors: 'Commericialization of audio algorithm and software for multi-channel audio polarity optimization, 2015.'
+  publication: 'www.Audiomere.com'
+
+- title: "A Multi-Transformational Model for Background Subtraction with Moving Cameras"
+  authors: 'D. Zamalieva, A. Yilmaz, and J. Davis'
+  publication: 'European Conference on Computer Vision, September 2014.'
+
+- title: "Exploiting Temporal Geometry for Moving Camera"
+  authors: 'D. Zamalieva, A. Yilmaz, and J. Davis'
+  publication: 'International Conference on Pattern Recognition, August 2014.'
+
+- title: "Temporally-Dependent Dirichlet Process Mixtures for Egocentric Video Segmentation"
+  authors: 'J. Barker and J. Davis'
+  publication: 'IEEE Workshop on Egocentric Vision, June 2014.'
+
+- title: "Summarizing High-Level Scene Behavior"
+  authors: 'K. Streib and J. Davis'
+  publication: 'Machine Vision and Applications Journal, 2013.'
+
+
+- title: "One-Class Multiple Instance Learning and Applications to Target Tracking"
+  authors: 'K. Sankaranarayanan and J. Davis'
+  publication: 'Asian Conference on Computer Vision, November 2012.'
+
+
+- title: "Segmentation and Scene Modeling for MIL-based Target Localization"
+  authors: 'K. Sankaranarayanan and J. Davis'
+  publication: 'International Conference on Pattern Recognition, November 2012.'
+
+
+- title: "Detecting Behavioral Zones in Local and Global Camera Views"
+  authors: 'M. Nedrich and J. Davis'
+  publication: 'Machine Vision and Applications, Vol. 23, 2012, pp. 1-27.'
+
+
+- title: "Recovery and Reasoning about Occlusions in 3D using Few Cameras with Applications to 3D Tracking"
+  authors: 'M. Keck and J. Davis'
+  publication: 'International Journal of Computer Vision, Vol. 95, Issue 3, 2011, pp. 240-264.'
+
+
+- title: "Activity Analysis in Wide-Area Surveillance Video"
+  authors: 'R. Feather and J. Davis'
+  publication: 'OSU Dept. Computer Science and Engineering Technical Report OSU-CISRC-11/11-TR34, 2011.'
+
+
+- title: "Object Association Across PTZ Cameras using Logistic MIL"
+  authors: 'K. Sankaranarayanan and J. Davis'
+  publication: 'IEEE Conference on Computer Vision and Pattern Recognition, June 2011.'
+
+
+- title: "Using Ripley's K-function to Improve Graph-Based Clustering Techniques"
+  authors: 'K. Streib and J. Davis'
+  publication: 'IEEE Conference on Computer Vision and Pattern Recognition, June 2011.'
+
+
+- title: "Camera Control and Geo-Registration for Video Sensor Networks"
+  authors: 'J. Davis'
+  publication: 'Distributed Video Sensor Networks, B. Bhanu (ed.), Springer, January 2011.'
+
+- title: "Attention-based Target Localization using Multiple Instance Learning"
+  authors: 'K. Sankaranarayanan and J. Davis'
+  publication: 'International Symposium on Visual Computing, November 2010.'
+
+
+
+- title: "Learning Scene Entries and Exits using Coherent Motion Regions"
+  authors: 'M. Nedrich and J. Davis'
+  publication: 'International Symposium on Visual Computing, November 2010.'
+
+
+- title: "Exploiting Multiple Cameras for Environmental Pathlets"
+  authors: 'K. Streib and J. Davis'
+  publication: 'International Symposium on Visual Computing, November 2010.'
+
+
+- title: "PTZ Camera Modeling and Panoramic View Generation via Focal Plane Mapping"
+  authors: 'K. Sankaranarayanan and J. Davis'
+  publication: 'Asian Conference on Computer Vision, November 2010.'
+
+
+- title: "Learning Directed Intention-driven Activities using Co-Clustering"
+  authors: 'K. Sankaranarayanan and J. Davis'
+  publication: 'IEEE Conference on Advanced Video and Signal Based Surveillance, August 2010.'
+
+
+- title: "Extracting Pathlets From Weak Tracking Data"
+  authors: 'K. Streib and J. Davis'
+  publication: 'IEEE Conference on Advanced Video and Signal Based Surveillance, August 2010.'
+
+
+- title: "Geo-registration and Interactive Control for Distributed Camera Networks"
+  authors: 'M. Nedrich, K. Sankaranarayanan, and J. Davis'
+  publication: 'OSU Dept. Computer Science and Engineering Technical Report OSU-CISRC-6/10-TR13, 2010.'
+
+
+- title: "How Panoramic Visualization can Support Human Supervision of Intelligent Surveillance"
+  authors: 'A. Morison, D. Woods, and J. Davis'
+  publication: 'Annual Meeting of the Human Factors and Ergonomics Society, October 2009.'
+
+
+- title: "Human Detection and Tracking"
+  authors: 'J. Davis, V. Sharma, A. Tyagi, and M. Keck'
+  publication: 'Encyclopedia of Biometrics, S. Li (ed.), Springer, July 2009.'
+
+- title: "A Feature-Selection Approach to Fusing Electro-Optical and IR Imagery"
+  authors: 'V. Sharma and J. Davis'
+  publication: 'SPIE Newsroom: Electronic Imaging & Signal Processing, February 2009.'
+
+
+
+- title: "Feature-Level Fusion for Object Segmentation Using Mutual Information"
+  authors: 'V. Sharma and J. Davis'
+  publication: 'Book chapter in Augmented Vision Perception in Infrared, Springer, December 2008, pp. 295-319.'
+
+
+- title: "A Fast Linear Registration Framework for Multi-Camera GIS Coordination"
+  authors: 'K. Sankaranarayanan and J. Davis'
+  publication: 'IEEE International Conference on Advanced Video and Signal Based Surveillance, September 2008.'
+
+
+- title: "3D Occlusion Recovery using Few Cameras"
+  authors: 'M. Keck and J. Davis'
+  publication: 'IEEE Conference on Computer Vision and Pattern Recognition, June 2008.'
+
+
+- title: "A Recursive Filter For Linear Systems on Riemannian Manifolds"
+  authors: 'A. Tyagi and J. Davis'
+  publication: 'IEEE Conference on Computer Vision and Pattern Recognition, June 2008.'
+
+
+- title: "An Efficient Active Camera Model for Video Surveillance"
+  authors: 'K. Sankaranarayanan and J. Davis'
+  publication: 'IEEE Workshop on Applications of Computer Vision, January 2008.'
+
+
+- title: "A Context-Based Tracker Switching Framework"
+  authors: 'A. Tyagi and J. Davis'
+  publication: 'IEEE Workshop on Motion and Video Computing, January 2008.'
+
+
+- title: "Steepest Descent For Efficient Covariance Tracking"
+  authors: 'A. Tyagi, J. Davis, and G. Potamianos'
+  publication: 'IEEE Workshop on Motion and Video Computing, January 2008.'
+
+
+- title: "Integrating Appearance and Motion Cues for Simultaneous Detection and Segmentation of Pedestrians"
+  authors: 'V. Sharma and J. Davis'
+  publication: 'IEEE International Conference on Computer Vision, October 2007.'
+
+
+- title: "Kernel-Based 3D Tracking"
+  authors: 'A. Tyagi, M. Keck, J. Davis, and G. Potamianos'
+  publication: 'IEEE International Workshop on Visual Surveillance, June 2007.'
+
+
+- title: "Simultaneous Detection and Segmentation of Pedestrians using Top-down and Bottom-up Processing"
+  authors: 'V. Sharma and J. Davis'
+  publication: 'IEEE International Workshop on Visual Surveillance, June 2007.'
+
+
+- title: "Background-Subtraction using Contour-based Fusion of Thermal and Visible Imagery"
+  authors: 'J. Davis and V. Sharma'
+  publication: 'Computer Vision and Image Understanding, Vol. 106, No. 2-3, 2007, pp. 162-182.'
+
+
+
+- title: "An Adaptive Focus-of-Attention Model for Video Surveillance and Monitoring"
+  authors: 'J. Davis, A. Morison, and D. Woods'
+  publication: 'Machine Vision and Applications, Vol. 18, No. 1, 2007, pp. 41-64.'
+
+
+- title: "Building Adaptive Camera Models for Video Surveillance"
+  authors: 'J. Davis, A. Morison, and D. Woods'
+  publication: 'IEEE Workshop on Application of Computer Vision, February 2007.'
+
+
+- title: "Extraction of Person Silhouettes from Surveillance Imagery using MRFs"
+  authors: 'V. Sharma, J. Davis, and A. Tyagi'
+  publication: 'IEEE Workshop on Application of Computer Vision, February 2007.'
+
+
+- title: "Fusion of Multiple Camera Views for Kernel-Based 3D Tracking"
+  authors: 'A. Tyagi, G. Potamianos, J. Davis, and S. Chu'
+  publication: 'IEEE Workshop on Motion and Video Computing, February 2007.'
+
+
+- title: "Coverage Optimization to Support Security Monitoring"
+  authors: 'A. Murray, K. Kim, J. Davis, R. Machiraju, R. Parent'
+  publication: 'Computers, Environment and Urban Systems, Vol. 31, 2007, pp. 133-147.'
+
+
+- title: "Background-Subtraction in Thermal Imagery Using Contour Saliency"
+  authors: 'J. Davis and V. Sharma'
+  publication: 'International Journal of Computer Vision, Vol. 71, No. 2, 2007, pp. 161-181. (online version June 2006)'
+
+
+- title: "Tracking Mean Shift Clustered Point Clouds for 3D Surveillance"
+  authors: 'M. Keck, J. Davis, and A. Tyagi'
+  publication: 'ACM Multimedia Workshop on Video Surveillance and Sensor Networks, October 2006, pp. 187-194.'
+
+
+- title: "Multiview Fusion for Canonical View Generation based on Homography Constraints"
+  authors: 'A. Tyagi, J. Davis, and M. Keck'
+  publication: 'ACM Mulimedia Workshop on Video Surveillance and Sensor Networks, October 2006, pp. 61-69.'
+
+
+- title: "Minimal-Latency Human Action Recognition using Reliable-Inference"
+  authors: 'J. Davis and A. Tyagi'
+  publication: 'Image and Vision Computing, Vol. 24, 2006, pp. 455-472.'
+
+
+- title: "Human Activity Recognition for Synthesis"
+  authors: 'Y. Chen, R. Parent, R. Machiraju, and J. Davis'
+  publication: 'IEEE Workshop on Learning, Representation, and Context for Human Sensing in Video, New York, NY, June 22, 2006.'
+
+
+- title: "Feature-level Fusion for Object Segmentation using Mutual Information"
+  authors: 'V. Sharma and J. Davis'
+  publication: 'IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum, New York, NY, June 22, 2006.'
+
+
+- title: "Sampling Representative Examples for Dimensionality Reduction and Recognition - Bootstrap Bumping LDA"
+  authors: 'H. Gao and J. Davis'
+  publication: 'European Conference on Computer Vision (ECCV), Graz, Austria, May 7-13, 2006, Part III, LNCS 3953, pp. 275-287.'
+
+
+- title: "Why Direct LDA Is Not Equivalent to LDA"
+  authors: 'H. Gao and J. Davis'
+  publication: 'Pattern Recognition, Vol. 39, 2006, pp. 1002-1006.'
+
+
+- title: "Event Template Hierarchies as Means for Human-Automation Collaboration in Security Surveillance"
+  authors: 'D. Woods, S. McNee, J. Davis, A. Morison, P. Maughan, and K. Christoffersen'
+  publication: 'Human Factors and Ergonomics Society Annual Meeting, Orlando, FL, September 26-28, 2005.'
+
+
+- title: "Modeling Behavior Trends and Detecting Abnormal Events using Seasonal Kalman Filters"
+  authors: 'J. Davis and M. Keck'
+  publication: 'Workshop on Human Activity Recognition and Modeling, Oxford, UK, September 9, 2005.'
+
+
+- title: "Fusion-based Background-Subtraction using Contour Saliency"
+  authors: 'J. Davis and V. Sharma'
+  publication: 'IEEE Workshop on Object Tracking and Classification in and Beyond the Visible Spectrum, San Diego, CA, June 20, 2005.'
+
+
+- title: "A Two-Stage Template Approach to Person Detection in Thermal Imagery"
+  authors: 'J. Davis and M. Keck'
+  publication: 'Workshop on Applications of Computer Vision, Breckenridge, Colorado, January 5-7, 2005.'
+
+
+- title: "Differential Video Coding of Face and Gesture Events in Presentation Videos"
+  authors: 'R. Tan and J. Davis'
+  publication: 'Computer Vision and Image Understanding, Vol. 96, No. 2, 2004, pp. 200-215.'
+
+
+- title: "Robust Detection of People in Thermal Imagery"
+  authors: 'J. Davis and V. Sharma'
+  publication: 'International Conference on Pattern Recognition, Cambridge, United Kingdom, August 23-26, 2004, pp. 713-716.'
+
+
+- title: "Sequential Reliable-Inference for Rapid Detection of Human Actions"
+  authors: 'J. Davis'
+  publication: 'IEEE Workshop on Detection and Recognition of Events in Video, Washington DC, July 2, 2004.'
+
+
+- title: "Robust Background-Subtraction for Person Detection in Thermal Imagery"
+  authors: 'J. Davis and V. Sharma'
+  publication: 'IEEE International Workshop on Object Tracking and Classification Beyond the Visible Spectrum, Washington DC, July 2, 2004.'
+
+
+- title: "Gender Recognition from Walking Movements using Adaptive Three-Mode PCA"
+  authors: 'J. Davis and H. Gao'
+  publication: 'IEEE Workshop on Articulated and Nonrigid Motion, Washington DC, June 27, 2004.'
+
+
+- title: "An Expressive Three-Mode Principal Components Model for Gender Recognition"
+  authors: 'J. Davis and H. Gao'
+  publication: 'Journal of Vision, Vol. 4, No. 5, 2004, pp. 362-377.'
+
+- title: "An Expressive Three-Mode Principal Components Model of Human Action Style"
+  authors: 'J. Davis and H. Gao'
+  publication: 'Image and Vision Computing, Vol. 21, No. 11, 2003, pp. 1001-1016.'
+
+
+- title: "Recognizing Human Action Efforts: An Adaptive Three-Mode PCA Framework"
+  authors: 'J. Davis and H. Gao'
+  publication: 'International Conference on Computer Vision, Nice, France, October 13-16, 2003, pp. 1463-1469.'
+
+
+- title: "A Reliable-Inference Framework for Recognition of Human Actions"
+  authors: 'J. Davis and A. Tyagi'
+  publication: 'IEEE International Conference on Advanced Video and Signal Based Surveillance, Miami, Florida, July 21-22, 2003, pp. 169-176.'
+
+
+- title: "A Three-Mode Expressive Feature Model of Action Effort"
+  authors: 'J. Davis, H. Gao, and V. Kannappan'
+  publication: 'IEEE Workshop on Motion and Video Computing, Orlando, Florida, December 5-6, 2002, pp. 139-144.'
+
+
+- title: "Motion Segmentation and Pose Recognition with Motion History Gradients"
+  authors: 'G. Bradski and J. Davis'
+  publication: 'International Journal of Machine Vision and Applications, Vol. 13, No. 3, 2002, pp. 174-184.'
+
+
+- title: "Analysis and Recognition of Walking Movements"
+  authors: 'J. Davis and S. Taylor'
+  publication: 'International Conference on Pattern Recognition, Quebec City, Canada, August 11-15, 2002, pp. 315-318.'
+
+
+- title: "Expressive Features for Movement Exaggeration"
+  authors: 'J. Davis and V. Kannappan'
+  publication: 'SIGGRAPH Conference Abstracts and Applications (Technical Sketches), San Antonio, Texas, July 24, 2002, pp. 182.'
+
+
+- title: "The Representation and Recognition of Action Using Temporal Templates"
+  authors: 'A. Bobick and J. Davis'
+  publication: 'IEEE Transactions on Pattern Analysis and Machine Intelligence, Vol. 23, No. 3, 2001, pp. 257-267.'
+
+
+- title: "A Perceptual User Interface for Recognizing Head Gesture Acknowledgements"
+  authors: 'J. Davis and S. Vaks'
+  publication: 'ACM Workshop on Perceptual User Interfaces, Orlando, Florida, November 15-16, 2001.'
+
+
+- title: "Representing and Recognizing Human Motion: From Motion Templates to Movement Categories"
+  authors: 'J. Davis'
+  publication: 'Digital Human Modeling Workshop, International Conference on Intelligent Robots and Systems, Maui, Hawaii, October 29, 2001.'
+
+
+- title: "Hierarchical Motion History Images for Recognizing Human Motion"
+  authors: 'J. Davis'
+  publication: 'IEEE Workshop on Detection and Recognition of Events in Video, Vancouver, Canada, July 8, 2001, pp. 39-46.'
+
+
+- title: "Visual Categorization of Children and Adult Walking Styles"
+  authors: 'J. Davis'
+  publication: 'International Conference on Audio- and Video-based Biometric Person Authentication, Halmstad, Sweden, June 6-8, 2001, pp. 295-300.'
+
+
+- title: "Physically Interactive Story Environments"
+  authors: 'C. Pinhanez, J. Davis, S. Intille, M. Johnson, A. Wilson, A. Bobick, and B. Blumberg'
+  publication: 'IBM Systems Journal, Vol. 39, No. 3/4, 2000, pp. 438-455.'
+
+
+- title: "Motion Segmentation and Pose Recognition with Motion History Gradients"
+  authors: 'G. Bradski and J. Davis'
+  publication: 'IEEE Workshop on Applications of Computer Vision, December 2000, pp. 174-184.'
+
+
+- title: "Categorical Representation and Recognition of Oscillatory Motion Patterns"
+  authors: 'J. Davis, A. Bobick, W. Richards'
+  publication: 'IEEE Conference on Computer Vision and Pattern Recognition, June 2000, pp. 628-635.'
+
+
+- title: "Relating Categories of Intentional Animal Motions"
+  authors: 'J. Davis and W. Richards'
+  publication: 'OSU Dept. Computer and Information Science Technical Report OSU-CISRC-11/00-TR25, November 2000.'
+
+
+- title: "The Kidsroom: A Perceptually-Based Interactive and Immersive Story Environment"
+  authors: 'A. Bobick, S. Intille, J. Davis, F. Baird, C. Pinhanez, L. Campbell, Y. Ivanov, A. Schutte, and A. Wilson'
+  publication: 'Presence: Teleoperators and Virtual Environments, Vol. 8, No. 4, 1999, pp. 367-391.'
+
+
+- title: "Toward 3-D Gesture Recognition"
+  authors: 'J. Davis and M. Shah'
+  publication: 'International Journal of Pattern Recognition and Artificial Intelligence, Volume 13 Number 3, May 1999, pp. 381-393.'
+
+
+- title: "Real-time Motion Template Gradients using Intel CVLib"
+  authors: 'J. Davis and G. Bradski'
+  publication: 'IEEE ICCV Workshop on Frame-rate Vision, September 1999.'
+
+
+- title: "Recognizing Movement using Motion Histograms"
+  authors: 'J. Davis'
+  publication: 'MIT Technical Report #487, March 1999.'
+
+
+- title: "A Robust Human-Silhouette Extraction Technique for Interactive Virtual Environments"
+  authors: 'J. Davis and A. Bobick'
+  publication: 'In Lecture Notes in Artificial Intelligence (Ed. by N. Magnenat-Thalmann & D. Thalmann), 1537, Heidelberg: Springer-Verlag, 1998, pp. 12-25.'
+
+
+- title: "Virtual PAT: A Virtual Personal Aerobics Trainer"
+  authors: 'J. Davis and A. Bobick'
+  publication: 'Workshop on Perceptual User Interfaces, November 1998, pp. 13-18.'
+
+
+- title: "Perceptive Spaces for Performance and Entertainment"
+  authors: 'C. Wren, F. Sparacino, A. Azarbayejani, T. Darrell, J. Davis, T. Starner, A. Kotani, C. Chao, M. Hlavac, K. Russell, A. Bobick, and A. Pentland'
+  publication: 'ATR Workshop on Virtual Communication Environments, April 1998.'
+
+
+- title: "Design Decisions for Interactive Environments: Evaluating the KidsRoom Application Using a Deep Perceptual Interface"
+  authors: 'A. Bobick, S. Intille, J. Davis, F. Baird, C. Pinhanez, L. Campbell, Y. Ivanov, A. Schutte, and A. Wilson'
+  publication: 'AAAI Spring Symposium on Intelligent Environments, March 1998, pp. 7-16.'
+
+
+- title: "The KidsRoom: An Example Application Using a Deep Perceptual Interface"
+  authors: 'A. Bobick, J. Davis, S. Intille'
+  publication: 'Workshop on Perceptual User Interfaces, October 1997, pp. 1-4.'
+
+
+- title: "The Representation and Recognition of Action Using Temporal Templates"
+  authors: 'J. Davis and A. Bobick'
+  publication: 'IEEE Conference on Computer Vision and Pattern Recognition, June 1997, pp. 928-934.'
+
+
+- title: "Real-Time Closed-World Tracking"
+  authors: 'S. Intille, J. Davis, and A. Bobick'
+  publication: 'IEEE Conference on Computer Vision and Pattern Recognition, June 1997, pp. 697-703.'
+
+
+- title: "Action Recognition Using Temporal Templates"
+  authors: 'A. Bobick and J. Davis'
+  publication: 'In M. Shah and R. Jain (eds.) Motion-Based Recognition, 1997, pp. 125-146.'
+
+
+- title: "Real-time Recognition of Activity Using Temporal Templates"
+  authors: 'A. Bobick and J. Davis'
+  publication: 'IEEE Workshop on Applications of Computer Vision, December 1996, pp. 39-42.'
+
+
+- title: "An Appearance-based Representation of Action"
+  authors: 'A. Bobick and J. Davis'
+  publication: 'IEEE International Conference on Pattern Recognition, August 1996, pp. 307-312.'
+
+
+- title: "Visual Gesture Recognition"
+  authors: 'J. Davis and M. Shah'
+  publication: 'Vision, Image and Signal Processing, Vol. 141, No. 2, 1994, pp. 101-106.'
+
+
+- title: "Recognizing Hand Gestures"
+  authors: 'J. Davis and M. Shah'
+  publication: 'European Conference on Computer Vision, 1994, pp. 331-340.'
+
+
+- title: "Determining 3-D Hand Motion"
+  authors: 'J. Davis and M. Shah'
+  publication: 'IEEE Asilomar Conference on Signals, Systems, and Computers, October 1994, pp. 1262-1266.'
+
+

@@ -1,0 +1,323 @@
+/* Created on 10/10/2019 by Zach Venables */
+/* Edited on 10/12/2019 by Matthew Kelch - Added header and footer styling, changed layout to dark theme */
+/* Edited on 10/13/2019 by Zach Venables - Improved styling of image; Changed styling of header*/
+/* Edited on 10/14/2019 by Andrew Petrilli - Added styling for noteworthy.html */
+/* Edited on 10/16/2019 by Matthew Kelch - Added styling for relatedlinks.html */
+/* Edited on 10/17/2019 by Neil Mckibben - Added styling for education images */
+/* Edited on 10/17/2019 by Andrew Petrilli - Minor changes to support html validation issues */
+/*Edited on 10/17/2019 by Sean Simpson - Added styling for tables and elements within */
+
+body {
+  background-color: #2b2b2b;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+/* Added 10/10 by Zach Venables*/
+a {
+  color: white;
+  text-decoration: unset;
+  &:focus,
+  &:hover {
+    color: lightslategray;
+  }
+}
+/* Added 10/10 by Zach Venables*/
+.nav-links {
+  display: inline;
+  margin-left: 60px;
+  font-size: 15px;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: .02em;
+  color: white;
+  &:hover{
+    color: #bfbfbf;
+  }
+}
+/* Added 10/10 by Zach Venables*/
+.nav-item {
+  display: inline;
+  line-height: 1.2em;
+  padding: 8px;
+}
+
+.name-block{
+  display: inline;
+  vertical-align: middle;
+}
+/* Added 10/10 by Zach Venables*/
+.name {
+  disply: inline;
+  letter-spacing: 0.0625em;
+  font-weight: 800;
+  font-style: normal;
+  text-transform: uppercase;
+  line-height: 1.4em;
+  text-decoration: none;
+  color: white;
+  font-size: 31px;
+}
+/* Added 10/10 by Zach Venables*/
+.name-subtext{
+  margin-top: -1px;
+  font-size: 15px;
+  color:white;
+}
+
+.footer-contact {
+  font-weight: 800;
+  font-style: normal;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+
+.bottom {
+  text-align: center;
+  margin: 100px auto auto;
+}
+/* Added 10/10 by Zach Venables*/
+.prof-pic {
+  border-style: solid;
+  border-width: 2px;
+  boder-color: white;
+  margin-top: 20px;
+  width: 1000px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.home-text {
+  display: block;
+  margin: auto;
+}
+/* Added 10/10 by Zach Venables*/
+.appointments{
+  margin-bottom: 60px;
+  letter-spacing: 0.0625em;
+  font-weight: 800;
+  font-style: normal;
+  text-transform: uppercase;
+  line-height: 1.4em;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+/* Added 10/10 by Zach Venables*/
+dt{
+  font-weight: bold;
+}
+/* Added 10/10 by Zach Venables*/
+dl{
+  margin-bottom: 130px;
+}
+/* Added 10/10 by Zach Venables*/
+.position{
+  margin-left: 70px;
+  margin-bottom: 20px;
+}
+/* Added 10/10 by Zach Venables*/
+.appointment-item{
+  margin-left: 100px;
+  font-size: 15px;
+  font-weght: 300;
+  font-style: normal;
+  letter-spacing: .02em;
+  line-height: 1.6em;
+  color: white;
+}
+
+/* Added on 10/12/2019 by Matthew Kelch */
+#canvas {
+  max-width: 1200px;
+  margin: auto;
+}
+
+/* Added on 10/16/2019 by Matthew Kelch*/
+details + details ul li p {
+  display: inline;
+}
+
+/* Added on 10/16/2019 by Matthew Kelch*/
+li p:first-child {
+  font-weight: bold;
+}
+
+/* Added on 10/16/2019 by Matthew Kelch*/
+details li {
+  margin-bottom: 2ex;
+}
+
+/* Added on 10/16/2019 by Matthew Kelch */
+summary {
+  font-size: 22px;
+  margin-bottom: 3ex;
+}
+
+/* Added on 10/14/2019 by Andrew Petrilli */
+/* Edited on 10/17/2019 by Andrew Petrilli */
+.dropdown {
+  position: relative;
+  display: inline;
+}
+
+/* Added on 10/14/2019 by Andrew Petrilli */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: black;
+  min-width: 160px;
+}
+
+/* Added on 10/14/2019 by Andrew Petrilli */
+.dropdown-content li {
+  white-space: nowrap;
+  color: lightgrey;
+  padding: 12px 16px;
+  display: block;
+}
+
+/* Added on 10/14/2019 by Andrew Petrilli */
+.dropdown button {
+  font-size: 26px;
+  width: 200px;
+  height: 50px;
+  font-weight: bold;
+  color: lightgrey;
+  background-color: black;
+}
+
+/* Added on 10/14/2019 by Andrew Petrilli */
+li span {font-weight: bold}
+
+/* Added on 10/14/2019 by Andrew Petrilli */
+.dropdown:hover .dropdown-content {display: block;}
+
+/* Added on 10/17/19 by Sean Simpson */
+.container{
+  text-align:center;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+  width:100%;
+}
+
+/* Added on 10/17/19 by Sean Simpson */
+.container span{
+  display: block;
+}
+
+/* Added on 10/17/19 by Sean Simpson */
+.professorName{
+  color:#FFFFFF;
+  letter-spacing:6px;
+  font-size:65px;
+  font-weight:900;
+  position:relative;
+  animation: name 3s 1;
+}
+
+/* Added on 10/17/19 by Sean Simpson */
+.title{
+  color:#FF2400;
+  font-size:25px;
+  animation: appear 3s 1;
+}
+
+/* Added on 10/17/19 by Sean Simpson */
+.college{
+  color:#BEBEBE;
+  font-size:20px;
+  animation: appear 4s 1;
+}
+
+/* Added on 10/17/19 by Sean Simpson */
+.sitelink{
+  font-size:18px;
+  position:relative;
+  animation: appear 6s 1;
+}
+
+/* Added on 10/17/19 by Sean Simpson */
+@keyframes name{
+  0%{
+    color:#2b2b2b;
+  }
+  33%{
+    letter-spacing: 40px;
+  }
+  66%{
+    letter-spacing: 8px;
+  }
+}
+
+/* Added on 10/17/19 by Sean Simpson */
+@keyframes appear{
+  0%{
+    color:#2b2b2b;
+  }
+  33%{
+    color:#2b2b2b;
+  }
+  66%{
+    color:#2b2b2b;
+  }
+}
+
+/*Added on 10/17/19 by Neil Mckibben */
+.university img {
+  width: 125px;
+  height: 75px;
+  padding-right: 10px;
+  padding-top: 15px;
+}
+
+/* Added on 10/17/19 by Sean Simpson */
+table.firstable {
+  font-family: "Times New Roman", Times, serif;
+  border: 2px solid #303030;
+  background-color: #515151;
+  width: 100%;
+  height: 200px;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.firstable td, table.darkTable th {
+  border: 3px solid #303030;
+  padding: 3px 2px;
+}
+table.firstable tbody td {
+  font-size: 16px;
+  color: #E6E6E6;
+}
+table.firstable tr:nth-child(even) {
+  background: #8E8E8E;
+}
+table.firstable tfoot td {
+  font-size: 12px;
+}
+
+/* Added on 10/17/19 by Sean Simpson */
+table.secondtable {
+  font-family: "Times New Roman", Times, serif;
+  border: 2px solid #303030;
+  background-color: #515151;
+  width: 100%;
+  height: 200px;
+  text-align: left;
+  border-collapse: collapse;
+}
+table.secondtable td, table.darkTable th {
+  border: 3px solid #303030;
+  padding: 3px 2px;
+}
+table.secondtable tbody td {
+  font-size: 16px;
+  color: #E6E6E6;
+}
+table.secondtable tr:nth-child(even) {
+  background: #8E8E8E;
+}
+table.secondtable tfoot td {
+  font-size: 12px;
+}
